@@ -1,24 +1,21 @@
-# README
+# health_care_app(健康管理アプリ　）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#アプリ概要
 
-Things you may want to cover:
+毎日の健康管理が出来る会計簿の様なもの。
 
-* Ruby version
+・今日は何本タバコを吸ったか？
+・今日は何本お酒を飲んだか？
+・今日の体温は？
+・何時に寝て何時に寝たか？
+・今日の食事は？
 
-* System dependencies
+#制作背景
 
-* Configuration
+あまりJavaScriptが得意では無いため、ページ遷移が少ない家計簿を選びました。
+また自分が使いたいと思うアプリを作った方が気持ちが籠ると思いました
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+・DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
+　⇒できている範囲で貼り付けましょう。
+・実装予定の内容
+・DB設計　
